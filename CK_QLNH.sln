@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CK_QLNH", "CK_QLNH\CK_QLNH.csproj", "{0FB6143C-6320-468B-A763-9CE442B50E1B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "C:\Users\ASUS\3D Objects\Database1\Database1.sqlproj", "{548B7B1D-E53A-4CEB-823F-5C4F3179CE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB6143C-6320-468B-A763-9CE442B50E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB6143C-6320-468B-A763-9CE442B50E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB6143C-6320-468B-A763-9CE442B50E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB6143C-6320-468B-A763-9CE442B50E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548B7B1D-E53A-4CEB-823F-5C4F3179CE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548B7B1D-E53A-4CEB-823F-5C4F3179CE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548B7B1D-E53A-4CEB-823F-5C4F3179CE12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{548B7B1D-E53A-4CEB-823F-5C4F3179CE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548B7B1D-E53A-4CEB-823F-5C4F3179CE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548B7B1D-E53A-4CEB-823F-5C4F3179CE12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526DA549-6D81-4A8E-9359-E8CF80113705}
+	EndGlobalSection
+EndGlobal

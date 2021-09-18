@@ -1,0 +1,255 @@
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\bin\Debug\CK_QLNH.exe
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\bin\Debug\CK_QLNH.pdb
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.Login.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.exe
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.pdb
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.QuanLyForm.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.NhanVienForm.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.ThemNV.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaNV.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.DanhSachNV.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.LichCV.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.LuongNV.resources
+D:\CK_QLNH\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+D:\CK_QLNH\CK_QLNH\bin\Debug\CK_QLNH.exe
+D:\CK_QLNH\CK_QLNH\bin\Debug\CK_QLNH.pdb
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.LichCV.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.LuongNV.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaNV.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.DanhSachNV.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.Login.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.NhanVienForm.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.QuanLyForm.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.ThemNV.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV.resources
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.exe
+D:\CK_QLNH\CK_QLNH\obj\Debug\CK_QLNH.pdb
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.pdb
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LichCV.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LuongNV.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaNV.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.DanhSachNV.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Login.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.NhanVienForm.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QuanLyForm.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThemNV.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.exe
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.pdb
+D:\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+D:\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe
+D:\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.pdb
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.exe
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.pdb
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.BepForm.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MonOder.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.BanOder.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLBanForm.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLMonForm.resources
+D:\02_PLUS\12_DOWNLOAD\01_ZALO\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongKeForm.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+D:\TestWin\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe
+D:\TestWin\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.pdb
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Login.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.exe
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.pdb
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainQuanLy.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.pdb
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainQuanLy.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.exe
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.pdb
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLMon_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLBan_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongKe_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LichCV_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LuongNV_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainNhanVien.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Menu_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLOder_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV_UC.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.KiemTraSLForm.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Oder_Form.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Ban_Form.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.TinhTien_Form.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Ban_Form.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.KiemTraSLForm.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LichCV_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LuongNV_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainNhanVien.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Menu_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLOder_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Oder_Form.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLMon_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLBan_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaNV_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.DanhSachNV_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThemNV_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongKe_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV_UC.resources
+D:\TestWin\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.TinhTien_Form.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaForm.resources
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThemNVForm.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaForm.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Ban_Form.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.KiemTraSLForm.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LichCV_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LuongNV_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainNhanVien.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Menu_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLOder_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Oder_Form.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLMon_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLBan_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainQuanLy.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongKe_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV_UC.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.TinhTien_Form.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThemNVForm.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Login_Form.resources
+D:\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.pdb
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Login_Form.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaForm.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Ban_Form.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.KiemTraSLForm.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LichCV_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LuongNV_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainNhanVien.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Menu_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLOder_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Oder_Form.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLMon_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLBan_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainQuanLy.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongKe_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV_UC.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.TinhTien_Form.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThemNVForm.resources
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.exe
+C:\Users\ASUS\3D Objects\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.pdb
+E:\01_HỌC TẬP\HK2_2\Lập Trình Trên Windows\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Login_Form.resources
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.exe
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\CK_QLNH.pdb
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Login_Form.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaForm.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Ban_Form.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.KiemTraSLForm.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LichCV_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.LuongNV_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainNhanVien.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Menu_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLOder_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Oder_Form.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLMon_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QLBan_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.MainQuanLy.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongKe_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV_UC.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.TinhTien_Form.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.ThemNVForm.resources
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.exe
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.pdb
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.TienLuongNV.resources
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\Spire.Doc.dll
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\Spire.License.dll
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\Spire.Pdf.dll
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\Microsoft.mshtml.dll
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\Spire.Doc.xml
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\Spire.License.xml
+D:\test11\CK_QLNH1\CK_QLNH\bin\Debug\Spire.Pdf.xml
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.csproj.CopyComplete
+D:\test11\CK_QLNH1\CK_QLNH\obj\Debug\CK_QLNH.NhaBepForm.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\CK_QLNH.exe.config
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\CK_QLNH.exe
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\CK_QLNH.pdb
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\Spire.Doc.dll
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\Spire.License.dll
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\Spire.Pdf.dll
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\Microsoft.mshtml.dll
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\Spire.Doc.xml
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\Spire.License.xml
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\bin\Debug\Spire.Pdf.xml
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.csprojAssemblyReference.cache
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.Login_Form.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.NhaBepForm.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.ChiaCaForm.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.Ban_Form.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.KiemTraSLForm.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.CheckInOut_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.LichCV_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.LuongNV_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.MainNhanVien.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.Menu_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.QLOder_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.Oder_Form.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.QLMon_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.QLBan_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.QuanLyNV_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.MainQuanLy.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.Properties.Resources.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.ThongKe_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.ThongTinNV_UC.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.TinhTien_Form.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.ThemNVForm.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.TienLuongNV.resources
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.csproj.GenerateResource.cache
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.csproj.CoreCompileInputs.cache
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.csproj.CopyComplete
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.exe
+D:\Nam 2 - HK2\WinForm\QuanLyNhaHang\CK_QLNH\obj\Debug\CK_QLNH.pdb

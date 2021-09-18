@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0FB6143C-6320-468B-A763-9CE442B50E1B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CK_QLNH</RootNamespace>
+    <AssemblyName>CK_QLNH</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.15.0.4797.1003\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Spire.Doc, Version=9.4.18.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spire.Doc.9.4.18\lib\net40\Spire.Doc.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.License, Version=1.3.8.40, Culture=neutral, PublicKeyToken=b1144360237c8b3f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spire.Doc.9.4.18\lib\net40\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf, Version=7.4.13.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spire.Doc.9.4.18\lib\net40\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\CaLam.cs" />
+    <Compile Include="Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhaBepForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhaBepForm.Designer.cs">
+      <DependentUpon>NhaBepForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLy_UC\NhanVien\ChiaCaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\NhanVien\ChiaCaForm.Designer.cs">
+      <DependentUpon>ChiaCaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\DoanhThu.cs" />
+    <Compile Include="NhanVien_UC\ODER\Ban_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\ODER\Ban_Form.Designer.cs">
+      <DependentUpon>Ban_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLy_UC\ThucDon\KiemTraSLForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\ThucDon\KiemTraSLForm.Designer.cs">
+      <DependentUpon>KiemTraSLForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\CheckInOut_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\CheckInOut_UC.Designer.cs">
+      <DependentUpon>CheckInOut_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\LichCV_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\LichCV_UC.Designer.cs">
+      <DependentUpon>LichCV_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\LuongNV_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\LuongNV_UC.Designer.cs">
+      <DependentUpon>LuongNV_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainNhanVien.Designer.cs">
+      <DependentUpon>MainNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\Menu_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\Menu_UC.Designer.cs">
+      <DependentUpon>Menu_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\ODER\QLOder_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\ODER\QLOder_UC.Designer.cs">
+      <DependentUpon>QLOder_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\ODER\Oder_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\ODER\Oder_Form.Designer.cs">
+      <DependentUpon>Oder_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLy_UC\ThucDon\QLMon_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\ThucDon\QLMon_UC.Designer.cs">
+      <DependentUpon>QLMon_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLy_UC\QLBan_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\QLBan_UC.Designer.cs">
+      <DependentUpon>QLBan_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLy_UC\NhanVien\QuanLyNV_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\NhanVien\QuanLyNV_UC.Designer.cs">
+      <DependentUpon>QuanLyNV_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\BANAN.cs" />
+    <Compile Include="Class\AccountNV.cs" />
+    <Compile Include="Class\MONAN.cs" />
+    <Compile Include="Class\HoaDon.cs" />
+    <Compile Include="MainQuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainQuanLy.Designer.cs">
+      <DependentUpon>MainQuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\IDLamViec.cs" />
+    <Compile Include="Class\NhanVien.cs" />
+    <Compile Include="Class\DataBase.cs" />
+    <Compile Include="Class\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLy_UC\ThongKe_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\ThongKe_UC.Designer.cs">
+      <DependentUpon>ThongKe_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\ThongTinNV_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\ThongTinNV_UC.Designer.cs">
+      <DependentUpon>ThongTinNV_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_UC\ODER\TinhTien_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien_UC\ODER\TinhTien_Form.Designer.cs">
+      <DependentUpon>TinhTien_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLy_UC\NhanVien\ThemNVForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\NhanVien\ThemNVForm.Designer.cs">
+      <DependentUpon>ThemNVForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLy_UC\TienLuongNV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuanLy_UC\TienLuongNV.Designer.cs">
+      <DependentUpon>TienLuongNV.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhaBepForm.resx">
+      <DependentUpon>NhaBepForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_UC\NhanVien\ChiaCaForm.resx">
+      <DependentUpon>ChiaCaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\ODER\Ban_Form.resx">
+      <DependentUpon>Ban_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_UC\ThucDon\KiemTraSLForm.resx">
+      <DependentUpon>KiemTraSLForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\CheckInOut_UC.resx">
+      <DependentUpon>CheckInOut_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\LichCV_UC.resx">
+      <DependentUpon>LichCV_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\LuongNV_UC.resx">
+      <DependentUpon>LuongNV_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainNhanVien.resx">
+      <DependentUpon>MainNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\Menu_UC.resx">
+      <DependentUpon>Menu_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\ODER\QLOder_UC.resx">
+      <DependentUpon>QLOder_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\ODER\Oder_Form.resx">
+      <DependentUpon>Oder_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_UC\ThucDon\QLMon_UC.resx">
+      <DependentUpon>QLMon_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_UC\QLBan_UC.resx">
+      <DependentUpon>QLBan_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_UC\NhanVien\QuanLyNV_UC.resx">
+      <DependentUpon>QuanLyNV_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainQuanLy.resx">
+      <DependentUpon>MainQuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QuanLy_UC\ThongKe_UC.resx">
+      <DependentUpon>ThongKe_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\ThongTinNV_UC.resx">
+      <DependentUpon>ThongTinNV_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_UC\ODER\TinhTien_Form.resx">
+      <DependentUpon>TinhTien_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_UC\NhanVien\ThemNVForm.resx">
+      <DependentUpon>ThemNVForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLy_UC\TienLuongNV.resx">
+      <DependentUpon>TienLuongNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ICONdelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anjuta-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anjuta-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addNV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ListNV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chia Ca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quản lý nv.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ThongTin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Checkinout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lịch làm việc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Luong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\máy in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\table1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minitable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minitable1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id-card-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thông Tin NV_QL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add NV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list NV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\work.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1151820.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7fea35462457d2e876a33c10ed813487.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\57735439-food-sign-icon-cutlery-symbol-knife-and-fork-gray-circle-button-with-icon-vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bar-Chart-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-Folder-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows-Close-Program-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-file-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chart-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go-back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Upload-Folder-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop-red-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant-menu-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gọi món.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vectorchef150709093.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows-Close-Program-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2770086feaef6b9342047eca979c397c-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minitable11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrouf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-green-arrow-right-end-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backIcon.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Next-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Next-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Next-icon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-food-and-restaurant-logo-design-and-icon-png-image_785683.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backIcon2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-food-and-restaurant-logo-design-and-icon-png-image_785683 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Logout-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go-back-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Refresh-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-restaurant-food-menu-background-image_190820.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1308491.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13084911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13084912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1308491 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\138-1383067_png-file-online-check-in-icon-clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lich tuân.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1308491 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\138-1383067_png-file-online-check-in-icon-clipart1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lich tuân1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1221.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1231.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\804-8048714_we-adopt-a-fair-approach-to-product-pricing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_47201031-stock-illustration-flat-money.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\804-8048714_we-adopt-a-fair-approach-to-product-pricing1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bandicam 2021-05-26 10-50-40-473.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2Login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1KHOA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2Login2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3MAT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-sun-icon-1846-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trua.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s-l500.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cf44e50128fcdda284ed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11518201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\57735439-food-sign-icon-cutlery-symbol-knife-and-fork-gray-circle-button-with-icon-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7fea35462457d2e876a33c10ed813487.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7fea35462457d2e876a33c10ed813487-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_47201031-stock-illustration-flat-money1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_icon_%28the_Noun_Project_30184%29.svg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
